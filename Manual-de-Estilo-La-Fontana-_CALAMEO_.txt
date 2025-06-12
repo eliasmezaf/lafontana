@@ -1,0 +1,2834 @@
+                          MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+Material de uso interno
+
+Editado por:
+Empresa Periodística La Fontana
+77.442.459-8
+www.lafontana.cl
+
+Con la autoría de:
+Elías Meza Falcón
+
+Primera edición: julio de 2022
+
+Contiene imágenes o tablas de:
+[1] Stony Brook University (New York, USA)
+[1] Wordpress.com
+[1] Fotolarios.es
+
+Cualquier forma de reproducción, distribución, comunicación pública o
+transformación de esta obra sólo puede realizarse con la autorización de sus
+titulares, a parte las excepciones previstas por la ley.
+
+
+
+
+                                             2
+                       MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                                ÍNDICE
+PRÓLOGO                                                 5
+1. EDITORIALIDAD                                       6
+    1. 1. PRINCIPIOS EDITORIALES                       7
+    1. 2. POLÍTICA EDITORIAL                           8
+    1. 3. RESPONSABILIDAD Y ÉTICA                      9
+2. PLATAFORMAS                                         11
+    2. 1. IDENTIDAD                                    12
+        2. 1. 1. DIARIO DIGITAL                        12
+        2. 1. 2. PERIÓDICO IMPRESO                     13
+        2. 1. 3. RADIO                                 13
+        2. 1. 4. TELEVISIÓN                            14
+        2. 1. 5. REDES SOCIALES (RRSS)                 15
+3. TRABAJO PERIODÍSTICO                                16
+    3. 1. LA NOTICIA                                   17
+    3. 2. OBJETIVIDAD                                  19
+    3. 3. REPORTEO                                     20
+    3. 4. JERARQUIZACIÓN                               21
+    3. 5. FUENTES                                      22
+   3. 6. ENTREVISTAS                                   24
+   3. 7. COMUNICADOS DE PRENSA                         26
+   3. 8. INFORMACIÓN DE OTROS MEDIOS                   28
+   3. 9. TRATAMIENTO DE LA INFORMACIÓN                 29
+       3. 9. 1. ¿QUÉ COSAS NO PUBLICAR?                29
+   3. 10. REPORTEO GRÁFICO                             31
+4. FORMATOS                                            34
+    4. 1. ESCRITOS                                     35
+        4. 1. 1. CRÓNICA INFORMATIVA                   35
+        4. 1. 3. EDITORIAL                             37
+        4. 1. 4. TEXTOS DE OPINIÓN                     38
+    4. 2. RADIOFÓNICOS                                 40
+        4. 2. 1. PODCAST                               41
+        4. 2. 2. CÁPSULA RADIAL                        41
+        4. 2. 3. DESPACHO RADIAL                       42
+
+
+                                       3
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+       4. 2. 4. NOTA RADIAL                           42
+       4. 2. 5. BOLETÍN Y NOTICIERO                   43
+       4. 2. 6. MAGAZINE                              44
+   4. 3. AUDIOVISUAL                                  45
+       4. 3. 1. CÁPSULA AUDIOVISUAL                   46
+       4. 3. 2. NOTA AUDIOVISUAL                      47
+       4. 3. 3. SERIES Y PROGRAMAS TELEVISIVOS        47
+5. REDACCIÓN PERIODÍSTICA                             48
+    5. 1. LEGIBILIDAD                                 49
+        5. 1. 1. ECONOMÍA DEL LENGUAJE                49
+        5. 1. 2. SIGNOS DE PUNTUACIÓN                 50
+        5. 1. 3. CORREFERENCIA LÉXICA                 50
+        5. 1. 4. TIEMPO                               51
+        5. 1. 5. LUGARES                              51
+        5. 1. 6. GENTILICIOS                          52
+        5. 1. 7. INSTITUCIONES                        53
+    5. 2. ORTOGRAFÍA                                  54
+        5. 2. 1. MAYÚSCULAS Y MINÚSCULAS              54
+            5. 2. 1. 1. NOMBRES PERSONALES            54
+            5. 2. 1. 2. LUGARES                       55
+            5. 2. 1. 3. INSTITUCIONES                 55
+        5. 2. 2. TILDES                               57
+        5. 2. 3. NÚMEROS Y CANTIDADES                 58
+        5. 2. 3. SIGNOS                               58
+            5. 2. 4. 1. COMILLAS                      59
+            5. 2. 4. 2. INTERROGACIÓN Y EXCLAMACIÓN   59
+            5. 2. 4. 3. GUIONES Y RAYAS               60
+        5. 2. 5. PREFIJOS Y SUFIJOS                   60
+        5. 2. 6. MODISMOS, VICIOS Y EXTRANJERISMOS    61
+    5. 3. VERBOS, ADVERBIOS Y ADJETIVOS               63
+    5. 4. SEO                                         65
+6. DISEÑO GRÁFICO                                     68
+    6. 1. IDENTIDAD E IMAGOTIPO                       69
+    6. 2. TIPOGRAFÍAS                                 70
+    6. 3. REGLAS GENERALES                             71
+
+
+
+                                   4
+                       MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                             PRÓLOGO
+Desde la fundación de LA FONTANA, el objetivo siempre ha sido
+entregar contenido de calidad a nuestra audiencia. Precisamente, ese
+es nuestro foco: quienes acuden a nosotros para informarse.
+
+Es la audiencia el motivo que nos lleva a perfeccionar, sistematizar y
+jerarquizar una forma de trabajo óptima en la que primen los valores
+periodísticos y éticos necesarios para el ejercicio profesional.
+
+Por lo mismo, se hace necesaria la creación del presente Manual de
+estilo. Es obligadamente útil la existencia de un documento que
+justifique, instruya y norme cómo los periodistas, redactores y todo el
+equipo de nuestro medio debe actuar frente al mayor tipo de
+circunstancias posibles.
+
+El presente manual -fruto de una investigación profunda del quehacer
+periodístico en Iberoamérica y las maneras de comunicación local y
+nacional- es un imperativo para construir un diario digital de calidad y
+cantidad.
+
+A lo largo de las siguientes páginas, entregamos criterios,
+procedimientos, formas y el estilo que deberá caracterizar a LA
+FONTANA ante otros medios de comunicación y, aún más importante,
+ante nuestra audiencia.
+
+Se han elaborado numerosos apartados que tratan, en detalle, sobre la
+conducta, el desempeño profesional, la redacción periodística y la
+uniformidad que debe primar en nuestro medio.
+
+ELÍAS N. MEZA FALCÓN
+Fundador y director
+
+
+
+
+                                    5
+   MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+1. EDITORIALIDAD
+
+
+
+
+                6
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+              1. 1. PRINCIPIOS EDITORIALES
+LA FONTANA es un medio de comunicación que informa de manera
+libre, oportuna, imparcial y ajustada a la verdad de los hechos.
+
+LA FONTANA es un medio promotor de las libertades individuales, la
+pluralidad política y la tolerancia.
+
+Es independiente de cualquier poder estatal, empresarial, político,
+social o religioso. Es más, siempre posee una postura crítica e
+inquisitiva frente a estos grupos.
+
+Ejerce y defiende su libertad de expresión. Asimismo, rechaza la
+censura de cualquier tipo.
+
+Respeta y promueve derechos fundamentales como la igualdad ante la
+ley, la libertad de pensamiento, la libertad de culto y la presunción de
+inocencia.
+
+
+
+
+                                MISIÓN
+
+   Entregar información necesaria, correcta y rigurosa. Explicar a
+nuestros lectores qué está pasando a su alrededor y por qué. Entregar
+           contenidos a través de una vocación pedagógica.
+
+
+
+
+                                VISIÓN
+
+  Posicionarse como el medio de referencia de la Región de Ñuble en
+                         Chile y el mundo.
+
+
+
+
+                                    7
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                 1. 2. POLÍTICA EDITORIAL
+LA FONTANA no es un periódico o un diario, sino un medio de
+comunicación. Es dentro de ese concepto donde se engloban las
+plataformas impresas, digitales, radiofónicas o audiovisuales. En todas
+ellas, la identidad, el estilo y la manera de proceder es la misma.
+
+No obstante, se puede denominar al sitio www.lafontana.cl como diario
+digital LA FONTANA, cuando se refiera a esa plataforma. Lo mismo con
+Radio LA FONTANA para la emisora radial y periódico para las ediciones
+impresas.
+
+LA FONTANA está constituida legalmente como una empresa
+periodística, cumple con la Ley 19.733, posee personalidad jurídica y un
+representante legal ante el Estado chileno.
+
+La máxima autoridad periodística es el director del medio, sobre quien
+recae la responsabilidad de los contenidos.
+
+Junto al director pueden existir editores, cuya responsabilidad es
+supervisar el trabajo de periodistas, reporteros y redactores, y hacer
+cumplir los estándares de calidad e instrucciones de quien dirige LA
+FONTANA.
+
+Es el director quien posee la toma de decisiones respecto a coberturas,
+tratamientos, publicación de textos de opinión y cualquier política que
+no quede manifiesta en este manual. Asimismo, todas las obligaciones
+que posee LA FONTANA como medio de comunicación pasan a ser
+obligaciones del director.
+
+La opinión de LA FONTANA siempre será publicada a través de la nota
+editorial, que deberá estar debidamente separada del contenido
+informativo y publicitario. Así también con cualquier formato de esta
+naturaleza y los espacios de opinión de autores individuales.
+
+
+
+
+                                   8
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+            1. 3. RESPONSABILIDAD Y ÉTICA
+Los periodistas y reporteros de LA FONTANA deben transmitir
+información fidedigna, verificada y sin cabida a imprecisiones. Se
+deben abstener, a toda costa, de emitir opiniones y juicios personales.
+
+Los rumores nunca tendrán cabida en LA FONTANA. Cualquier conjetura,
+imprecisión o supuesto debe ser comprobado antes de ser publicado: si
+esto no sucede, no debe publicarse y la información debe tratarse
+prescindiendo de ello.
+
+Por lo mismo, deben evitarse a toda costa expresiones de supuestos.
+Estas fórmulas sólo agregan suspenso, suposición o imprecisión a la
+información, en desmedro del trabajo periodístico.
+
+Asimismo, los periodistas y reporteros deben tener máxima cautela al
+publicar declaraciones, imputar delitos, utilizar fuentes anónimas o
+aludir a menores de edad. Será de responsabilidad del redactor y,
+posteriormente, del editor a cargo, el cumplimiento de este proceder.
+
+En el reporteo, todos quienes presten servicio a LA FONTANA deben
+tener una conducta respetuosa, templada y cautelosa, cuidando las
+expresiones y respetando protocolos sanitarios y judiciales, además del
+sentido común.
+
+Los periodistas o redactores jamás deben utilizar a LA FONTANA para
+represalias personales, políticas o sociales contra alguna persona
+natural o jurídica; inclusive si es por causa de estorbo al trabajo
+periodístico, materia que debe tratarse en la interna y no publicarse.
+
+El periodista toma decisiones subjetivas al momento de investigar,
+informar o redactar. Como a cada ser humano, le es imposible
+despojarse de sus ideas, creencias o juicios. Por lo tanto, siempre debe
+estar consciente de ello al momento de trabajar periodísticamente,
+acercándose lo más posible a la objetividad.
+
+Los redactores son los principales responsables de leer y releer sus
+escritos, para asegurar la exactitud de las palabras y corregir
+ortográfica y sintácticamente. La primera responsabilidad es siempre
+
+
+
+                                   9
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+de quien escribe, y sólo con posterioridad será responsabilidad de los
+editores responsables, pudiendo enmendar los errores.
+
+Los periodistas y redactores tendrán a su disposición todos los insumos
+disponibles para contar su historia de la mejor manera. Se debe buscar
+la forma más efectiva de comunicar, lo que debe ser coordinado con los
+editores o la dirección.
+
+Los periodistas y redactores están obligados a dominar la gramática y
+la ortografía, tener conocimientos básicos de diseño digital, consultar
+diccionarios para resolver cualquier duda del ámbito y siempre verificar
+su proceder con este manual.
+
+
+
+
+                                   10
+  MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+2. PLATAFORMAS
+
+
+
+
+               11
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                         2. 1. IDENTIDAD
+LA FONTANA no es un diario, un periódico o una radio, es un medio de
+comunicación. Utiliza diversas plataformas para cumplir con su rol de
+informar a la sociedad, pero su identidad es la misma en todas ellas.
+
+A continuación, se detallan los objetivos que cumple cada plataforma y
+los rasgos que LA FONTANA debe presentar ante las audiencias
+respectivas.
+
+De manera general, en todas se entrega la información de manera
+directa y se delimita claramente la naturaleza de los contenidos, entre
+hechos y opiniones.
+
+Cada plataforma es un escenario distinto para informar. Son los canales
+por donde transita siempre el mismo contenido: información de
+calidad, el sello característico de LA FONTANA.
+
+                         2. 1. 1. DIARIO DIGITAL
+El sitio web www.lafontana.cl es un diario digital. Así lo reconoce el
+Estado de Chile tras una serie de solicitudes, documentos y decretos
+que permiten, por ejemplo, su archivo en la Biblioteca Nacional de
+Chile y la publicación de avisos legales.
+
+Por lo antes mencionado, es recomendable evitar nombrar al sitio web
+como “portal digital” o incluso “sitio web”, y siempre referirse a él como
+“diario digital”, para poner en valor su naturaleza.
+
+Todo el contenido publicado en www.lafontana.cl debe ser tratado a la
+misma altura que un diario impreso. No obstante, se debe aprovechar
+la infinidad de posibilidades y recursos que ofrece la plataforma para
+dotar de valor agregado a la información.
+
+El diario digital de LA FONTANA es una plataforma seria, elegante, clara
+e interactiva. Posee una maquetación digital que le da prestancia y
+permite visualizar los contenidos claramente. Es una interfaz bien
+trabajada a través de una selección de tipografías y recursos visuales.
+
+Debe ser una plataforma rápida, por lo que siempre estará en
+constante optimización.
+
+
+
+                                    12
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+                     2. 1. 2. PERIÓDICO IMPRESO
+
+Es una publicación periódica (mensual, bimensual, quincenal, semanal,
+etc.) impresa y compaginada. Cumple con las características habituales
+de los diarios impresos, y posee una diagramación elegante y clara.
+
+Por su naturaleza periódica, entrega contenidos en profundidad,
+dejando de lado la premura del tiempo y la cobertura efímera. Debe
+contener imágenes en alta calidad e, idealmente, infografías y
+elementos gráficos que aprovechen el formato físico.
+
+Posee una identidad gráfica, iconográfica y tipográfica que hace
+homogénea a las distintas páginas y secciones del periódico.
+
+Su elaboración debe adaptarse a las condiciones de impresión (offset, a
+color, bicolor o monocromático). Para ello debe existir un jefe de
+impresión, que supervise la elaboración digital y su traspaso al papel
+con el equipo de imprenta.
+
+Debe existir una calendarización periodística y comercial que considere
+fechas de cierre, plazo para impresión y el detalle de la distribución
+territorial.
+
+El periódico de LA FONTANA podrá ser publicado en formato de papel
+digital a través de www.lafontana.cl. Dicho papel digital debe ser de
+carga rápida y buena visualización.
+
+                             2. 1. 3. RADIO
+
+Ya sea a través de una señal de streaming digital, AM o FM, la radio de
+LA FONTANA es una emisora seria y elegante. Su objetivo es transmitir
+información clara y precisa a través de la palabra hablada. Para ello,
+usa todas las herramientas sonoras a su alcance.
+
+La radio debe ser una plataforma agradable, cordial y de calidad. El
+compromiso principal es con la audiencia. LA FONTANA se debe a
+quienes la escuchan.
+
+Su contenido presenta un formato estructurado y claramente
+delimitado. El objetivo es que la audiencia identifique con facilidad qué
+es lo que está escuchando y qué información está consumiendo.
+
+
+                                   13
+                     MANUAL DE ESTILO | LA FONTANA
+
+
+
+La interfaz sonora del contenido debe ser cuidada y de la mayor
+calidad posible.
+
+Pueden existir espacios radiales distendidos (en formato magazine)
+pero la precisión y claridad en la información siempre debe primar.
+
+Cada sección, cápsula o programa tendrá una identidad propia pero, a
+su vez, sometida a la identidad sonora de la radio. Por ejemplo, las
+cortinas serán compuestas tomando como base el tema principal que
+identifica a la radio, o la voz de los locutores corporativos.
+
+Debe existir homogeneidad entre los programas y cápsulas radiales. Se
+debe crear una identidad tal que la audiencia, tan solo con escuchar un
+par de veces, sea capaz de identificar la pertenencia a la radio de LA
+FONTANA.
+
+En las cápsulas corporativas siempre estarán las mismas voces o
+cortinas musicales con el mismo tema, para construir la identidad de la
+radio.
+
+                         2. 1. 4. TELEVISIÓN
+Se entenderá como televisión a cualquier plataforma que permita la
+transmisión de contenido audiovisual a distancia y de manera masiva
+(streaming, canal de tv digital, cable o señal de aire).
+
+La televisión de LA FONTANA entrega una puesta en escena limpia, seria
+y elegante. Elabora cuidadosamente cualquier interfaz gráfica, la
+redacción de recuadros, inserción de audios y sonido en directo.
+
+Respeta las reglas tradicionales de la elaboración audiovisual y sigue
+siempre los mismos patrones en cuanto a la presentación de
+contenidos, para crear homogeneidad entre las emisiones.
+
+Ante todo, posee una identidad visual clara, de tal manera que
+cualquier telespectador sea capaz de identificar que está viendo LA
+FONTANA TV o una transmisión de este medio de comunicación.
+
+
+
+
+                                  14
+                     MANUAL DE ESTILO | LA FONTANA
+
+
+
+                   2. 1. 5. REDES SOCIALES (RRSS)
+A diferencia de las anteriormente mencionadas, las redes sociales
+(RRSS) son plataformas que no pertenecen a LA FONTANA. Son sitios o
+aplicaciones en las que es posible generar contenido, pero el control
+final radica en la empresa propietaria de cada red social.
+
+A diferencia del diario digital o el periódico impreso, en RRSS LA
+FONTANA no hace más que utilizar los mecanismos que cada red
+permite, quedando a merced de los cambios que la plataforma pudiera
+realizar.
+
+Por tal motivo, las redes sociales de LA FONTANA sólo deben ser
+utilizadas como un puente entre sus audiencias y nuestras propias
+plataformas.
+
+La generación de contenidos en RRSS tienen por objetivo movilizar a
+los usuarios hacia nuestras plataformas periodísticas. Cualquier
+publicación que no tenga esa meta, sólo da valor a la red social, no al
+medio.
+
+Periódicamente, el equipo editorial debe monitorear las estadísticas
+que cada red social permite, y hacer un seguimiento a todos los
+aspectos de ellas.
+
+Las publicaciones en RRSS deben ser calculadas y sistemáticas, así
+como también la elección de qué contenido publicar y en qué
+plataformas hacerlo.
+
+
+
+
+                                  15
+      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+3. TRABAJO PERIODÍSTICO
+
+
+
+
+                   16
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                        3. 1. LA NOTICIA
+Noticia es cualquier hecho digno de ser sabido por la audiencia. Debe
+ser narrado de manera completa, oportuna y apegada a la objetividad.
+Es real, novedoso, actual, de interés general y se comunica a un público
+masivo.
+
+Las noticias no se hacen, sino que suceden. Asimismo, siempre ocurren
+en un contexto y para entregar la información en profundidad, se
+deben recabar todos los antecedentes posibles. Todos los datos deben
+ser procesados, jerarquizados y bien explicados por LA FONTANA.
+
+Al momento de narrar las noticias, los periodistas y redactores deben
+excluir cualquier opinión propia y solo considerar las ajenas
+pertinentes a los hechos y que contribuyan a que la audiencia adquiera
+una idea más completa de lo sucedido.
+
+El periodista o reportero tendrá en cuenta que siempre habrá, por lo
+menos, dos versiones sobre un hecho controversial. Su obligación
+consiste en obtener la mayor cantidad posible de versiones para
+contrastar y contextualizar los hechos.
+
+En un mundo saturado de imágenes, es menester obligado acompañar
+los textos que narran la noticia con contenido gráfico.
+
+Para guiar las decisiones editoriales sobre qué y cuánta cobertura
+brindar a los hechos que son noticia, deben tenerse en cuenta los
+factores que le hacen considerarse tal (Ver página siguiente).
+
+
+
+
+                                   17
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                 FACTORES PARA DEFINIR QUÉ ES NOTICIA
+
+
+   Actualidad Inmediación en el tiempo.
+
+                  Inmediación en el espacio geográfico o social. Local,
+   Proximidad
+                  nacional o internacional.
+
+Consecuencias Un hecho con repercusiones.
+
+   Relevancia El protagonista es una persona relevante ante la
+     personal opinión pública.
+
+                  Hay pocas determinaciones sobre el futuro de los
+    Suspenso
+                  hechos.
+
+       Rareza Lo inhabitual, poco visto.
+
+                  Discusiones o disputas entre personajes relevantes o
+     Conflicto
+                  grupos de personas.
+
+                  Todo lo que contenga el denominado “factor
+     Emoción
+                  humano”.
+
+                  Adelantos, obras civilizatorias, avances técnicos que
+     Progreso
+                  traen un bien a la sociedad.
+
+
+
+
+                                   18
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                       3. 2. OBJETIVIDAD
+Los periodistas toman decisiones subjetivas al momento de investigar,
+informar o redactar y cada ser humano posee ideas, creencias o
+prejuicios de los cuales no se puede despojar.
+
+Sociológicamente, es imposible lograr completa objetividad, pero los
+periodistas, reporteros y redactores de LA FONTANA deben acercarse a
+ese concepto lo mayor posible. Esto, a través de comunicar todo lo que
+se conoce, sin ocultar información por interés y tener la altura de miras
+para consultar distintas opiniones, sobre todo en los temas en los que
+hay visiones preconcebidas.
+
+Es elemental que quienes elaboran contenidos en LA FONTANA sean
+conscientes de sus prejuicios y creencias, y no las antepongan a la
+cobertura. Muchas veces -de manera errada- los periodistas se dedican
+a cubrir hechos para demostrar que lo que ellos creen es la verdad. Este
+tipo de comportamientos deben evitarse a toda costa.
+
+Es mejor sincerar posturas y evitar cubrir noticias que se relacionen
+directamente con un ámbito en el que el periodista o redactor tenga
+una postura clara, y aún más si es pública. Lo mismo ocurre para
+quienes estén o hayan estado ligados a instituciones o empresas que
+posean interés en los temas.
+
+Este proceder ayudará a evitar sesgos en la cobertura de LA FONTANA y
+le acercará siempre a la objetividad.
+
+
+
+
+                                   19
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                        3. 3. REPORTEO
+Se entiende por reporteo al proceso de recolección de datos que
+realizan los periodistas para obtener la mayor cantidad de información
+respecto a un hecho que es noticia. Este concepto, que en su génesis
+implicaba obligadamente un trabajo en terreno, hoy engloba también la
+investigación en internet y la recopilación de documentación.
+
+Los periodistas, reporteros y redactores de LA FONTANA deben manejar
+todos los conceptos que utilizan y todas las aristas de los hechos que
+cubren. Para ello, siempre será necesario un reporteo previo, que le
+dote de los conocimientos mínimos para enfrentar la situación.
+
+Quienes asisten al lugar de los hechos, deben haber previamente
+investigado de qué se trata, averiguar y corroborar la identidad de
+quiénes los protagonizan y saber los motivos -o formular hipótesis que
+más tarde deben confirmar- de lo sucedido.
+
+Asimismo, deben ser sensores de la realidad: estar alertas, tomar nota
+de cada anomalía que sucede en el entorno y prestar atención a todos
+los datos. Sólo después del reporteo se descartará la información no
+relevante.
+
+En el caso de los redactores, siempre deben realizar reporteo sobre lo
+que están a punto de escribir. Es inconcebible que un redactor de LA
+FONTANA escriba conceptos que no maneja, o explique situaciones que
+desconoce. Siempre será necesario adquirir mayor información que la
+que será publicada.
+
+En resumen, para periodistas, reporteros y redactores de LA FONTANA
+es imperativo manejar la totalidad de los temas a tratar, lo que solo es
+posible con un buen reporteo.
+
+
+
+
+                                   20
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                   3. 4. JERARQUIZACIÓN
+La jerarquización es el mecanismo en el cual los periodistas o
+redactores procesan la información y definen qué asuntos son más
+importantes que otros. Este procedimiento debe realizarse con
+cualquier información publicada por LA FONTANA y es posterior a la
+etapa de reporteo.
+
+A la hora de jerarquizar, se deben tomar en cuenta las tradicionales 6W:
+Qué, Quién, Cómo, Dónde, Cuándo, Por qué.
+
+Al mismo tiempo, se ordenan los datos y se arma la narrativa del relato
+periodístico, dando respuesta a: ¿Qué es lo principal que se debe
+saber? ¿Qué hechos se relacionan directamente con ello? ¿Cuáles
+temas se deben explicar? ¿De qué manera empezamos y terminamos el
+relato?
+
+Se debe aterrizar la información pensando en las características de la
+audiencia. Esto es, definir, aclarar, explicar o narrar de acuerdo a los
+conocimientos mínimos que pudiesen o no tener quienes deciden
+informarse en LA FONTANA.
+
+Aquí es cuando se ejerce un rol incluso pedagógico, para dar a entender
+los hechos o conectar conceptos con lo sucedido. Ante todo, debe
+primar un orden lógico -a veces, cronológico- de los hechos,
+antecedentes y explicaciones.
+
+
+
+
+                                   21
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                          3. 5. FUENTES
+La información que dispone LA FONTANA sólo puede ser obtenida por
+tres vías: la presencia de periodistas y reporteros en el lugar de los
+hechos, la narración de una tercera persona y documentos.
+
+La audiencia debe saber la vía por la que se obtuvo la información, ya
+sea explicitándolo en la firma de las notas o dentro de ellas. Aclarar la
+manera de acceder a las fuentes es un imperativo en LA FONTANA.
+
+Las dos maneras para obtener información de terceras personas es a
+través de una entrevista o un off the record.
+
+           ENTREVISTA                            OFF THE RECORD
+
+                                         Se trata de una conversación
+ Corresponde a una conversación          entre un reportero y una
+ bajo registro entre un reportero        persona que posee información
+ y una persona que posee                 relevante para los periodistas.
+ información relevante para la
+                                         Dicha información no puede ser
+ audiencia.
+                                         revelada a la audiencia hasta
+ Siempre se le debe aclarar que          que se compruebe por otra
+ está siendo registrada -ya sea          fuente que lo haga bajo registro,
+ en audio, video o texto- y, al          a través de una entrevista.
+ mismo tiempo, identificar a LA
+                                         El off the record es un insumo
+ FONTANA como el medio que lo
+                                         para los periodistas, no para los
+ hace.
+                                         lectores.
+
+
+En la realización de entrevistas el periodista o reportero debe cuidar
+sus preguntas y realizarlas con mesura.
+
+En las entrevistas, LA FONTANA cumple un rol amplificador de los
+antecedentes u opiniones de terceros, por lo que, al seleccionar
+cualquier declaración, se debe publicar de manera tal que se entienda
+por sí misma y corresponda a quien la emite. Esto se profundizará en el
+siguiente apartado.
+
+
+
+
+                                    22
+                         MANUAL DE ESTILO | LA FONTANA
+
+
+
+La tercera manera de obtener información corresponde a fuentes
+documentales. Es aquí donde aparecen los comunicados de prensa, que
+día a día llegan a las redacciones de los medios. Estos textos son
+insumos para los periodistas, pero no deben ser publicados tal cual.
+
+Muchas veces, las instituciones y empresas redactan comunicados
+copiando la estructura periodística, pero no por eso deben ser
+publicados. LA FONTANA utiliza comunicados de prensa para elaborar
+textos periodísticos propios, citando a la respectiva fuente. Esto se
+precisará más adelante.
+
+Al momento de reportear o elaborar la narración de una noticia, los
+periodistas y reporteros de LA FONTANA deben elegir a las fuentes
+adecuadas. Muchas personas e instituciones están interesadas por
+figurar en la prensa, por lo que deben haber filtros específicos.
+
+Antes de trabajar con fuentes, se debe tomar en cuenta el análisis
+IMVAIN, propuesto por la Stony Brook University.
+
+            ANÁLISIS IMVAIN SOBRE FUENTES ADECUADAS
+
+   I    Independientes. Que no actúan guiadas por intereses.
+
+  M     Múltiples. Muchas voces es mejor que una.
+
+  V     Verificadas. Información que se puede corroborar.
+
+  A     Autorizadas. Con las credenciales ad hoc en su ámbito.
+
+   I    Informadas. Que sepan bien de lo que hablan.
+
+  N     Nombradas. Personas identificables, no anónimas.
+           Elaboración: Escuela de Periodismo de la Stony Brook University (Nueva York, EE.UU.)
+
+
+
+
+                                           23
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                       3. 6. ENTREVISTAS
+Las entrevistas son el único mecanismo a través del cual se obtiene
+información de terceras personas -entiéndase a entrevista como un
+intercambio de preguntas y respuestas o una conversación entre un
+periodista y alguien que posee información-.
+
+Si bien existe la entrevista como un formato de los géneros informativo
+e interpretativo, este proceso siempre estará presente en el reporteo,
+por lo que es necesario aunar criterios al respecto.
+
+ANTES Y DURANTE
+
+Antes de iniciar una entrevista, el periodista o reportero debe
+identificarse a sí mismo y al medio al cual le presta servicios. Es
+fundamental que el entrevistado sepa que sus declaraciones,
+eventualmente, podrán ser publicadas en LA FONTANA. Eso sí, jamás se
+debe asegurar su publicación, ya que eso se evaluará con
+posterioridad.
+
+El entrevistador, en el momento, deberá crear un respaldo de la
+conversación. Esto debe ser explicitado ante quién responde. Siempre
+debe ser en audio o video; solo en el peor de los casos se remitirá a
+apuntes de texto.
+
+Es obligación reportear y preparar los temas a tratar e incluso se
+recomienda tener una lista de preguntas. Siempre se debe tener un
+margen para contrapreguntar, cambiar lo planificado o flexibilizar la
+conversación. El entrevistado tiene derecho a conocer sobre qué
+temáticas se le preguntarán, pero no las preguntas.
+
+A lo largo del intercambio de preguntas y respuestas debe evitarse a
+toda costa la alusión a la vida personal de quien entrevista. No está allí
+como persona natural, sino como miembro de LA FONTANA.
+
+DESPUÉS
+
+Una vez finalizada la entrevista, el entrevistador no tiene más que
+agradecer la comparecencia de su interlocutor y terminar allí la
+relación de contacto. Es usual que quienes responden -sobre todo si
+
+
+                                   24
+                     MANUAL DE ESTILO | LA FONTANA
+
+
+
+son políticos o autoridades- quieran acceder a la transcripción de la
+entrevista o su edición: esto debe negarse rotundamente.
+
+Tal como se explicita al inicio, el entrevistado es consciente de estar
+declarando ante LA FONTANA, sabiendo que cede sus palabras al medio.
+
+Una vez culminado todo el procedimiento, llega el momento de la
+transcripción. Idealmente, quien realizó la entrevista debe ser quien
+transcribe, para así agregar sus observaciones o recordar los momentos
+precisos.
+
+Las declaraciones transcritas deben ser fidedignas y mantener el
+espíritu de lo que se quiso decir. Las citas textuales siempre deben ir
+entre comillas, y las preguntas (si es un texto entrevista) deben ir en
+negrita y antecedidas por un guión.
+
+SOBRE ANOMALÍAS EN EL DISCURSO
+
+Muchas veces por las características de quien respondió, pueden haber
+problemas de dicción o uso de modismos: esto debe corregirse en la
+transcripción.
+
+No obstante, si periodísticamente es necesario transcribir tal cual se
+dijo, estas palabras conflictivas deben escribirse en cursiva y, al
+terminar la cita, escribir “(sic)”, que hace referencia al latín “así”.
+
+
+
+
+                                  25
+                     MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+            3. 7. COMUNICADOS DE PRENSA
+Los comunicados de prensa son textos institucionales que envían
+organismos del Estado, instituciones privadas o grupos sociales a la
+prensa. Este tipo de textos siempre poseen una intención: llamar la
+atención de los medios de comunicación y figurar en ellos.
+
+Los comunicados de prensa, pese a que aparentan ser textos
+periodísticos listos para publicarse, van dirigidos a los medios de
+comunicación. Deben ser tratados como insumos para los periodistas y
+redactores de LA FONTANA, pero nunca como un texto a publicar
+íntegramente.
+
+A través de los comunicados, quienes lo emiten plasman su visión y los
+hechos que les interesa destacar. Las instituciones o grupos que envían
+estos textos jamás saldrán perjudicados en ellos. Son una mirada
+corporativa de los hechos.
+
+Cada semana, decenas de comunicados de prensa son recibidos por LA
+FONTANA, y el medio los utiliza para elaborar notas de prensa. A
+continuación se detalla cómo proceder con estos documentos.
+
+TRABAJO CON COMUNICADOS
+
+Como se trata de textos que tienen el interés de ser publicados, con
+mayor razón se debe evaluar si son o no noticia. Muchas veces las
+instituciones intentan posicionar como noticias hechos que no lo son,
+motivadas por figurar en los medios.
+
+Si editorialmente se acepta que el hecho es noticia, el comunicado
+debe analizarse y extraer de él todos los datos relevantes. Si faltan,
+deben ser reporteados por LA FONTANA. No es correcto realizar una
+nota que sólo considere lo dicho en el comunicado.
+
+Es función de los periodistas y redactores confirmar que lo que dice el
+comunicado es verídico, consultando otras fuentes que no
+corresponden a los autores del texto.
+
+Una vez que se obtenga toda la información, podrá realizarse la nota.
+Deberá ser de redacción propia del medio y, sólo si es realmente
+
+
+                                  26
+                     MANUAL DE ESTILO | LA FONTANA
+
+
+
+necesario, se podrá copiar un extracto del documento original en el
+formato de cita textual.
+
+Como se dijo, los comunicados simulan un formato periodístico y
+contienen cuñas (declaraciones) de las personas implicadas.
+
+El formato y la forma no debe por qué respetarse, ya que LA FONTANA
+tiene la capacidad para ajustarse a sus propios formatos y formas. Las
+cuñas pueden ser usadas como declaraciones captadas por el medio
+pero jamás deben presentarse como algo exclusivo, porque no lo es.
+
+La audiencia siempre deberá ser informada de la manera en la que se
+obtuvo la información, por lo que se debe transparentar la existencia
+del comunicado de prensa. Si casi toda la información proviene de este
+tipo de textos, debe explicitarse con mayor amplitud.
+
+La mayoría de los comunicados de prensa vienen con texto e imágenes
+en fotografía o video. Las imágenes también representan la visión e
+intereses de quienes envían los comunicados, por lo que deben ser
+seleccionadas con criterio y, si no sirven, se deben ocupar imágenes
+referenciales obtenidas por LA FONTANA u otros medios (que deben ser
+citados en el pie de foto o video).
+
+Tratar con comunicados de prensa es transitar por un camino
+pedregoso, en el que siempre deben primar los criterios y valores
+periodísticos por el bien de la independencia de LA FONTANA.
+
+
+
+
+                                  27
+                     MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+       3. 8. INFORMACIÓN DE OTROS MEDIOS
+En algunas ocasiones, la cobertura de los hechos se hace distante -por
+ejemplo en situaciones nacionales o internacionales- por lo que LA
+FONTANA puede publicar información obtenida por fuentes
+secundarias, es decir, otros medios de comunicación.
+
+Sin embargo, siempre se debe tener en cuenta que hacer eso debe ser
+la última instancia. Previo a ello, los periodistas y redactores deben
+agotar todas las oportunidades para obtener información de primera
+fuente.
+
+Es menester de LA FONTANA tratar de obtener la información mediante
+fuentes directas. Sólo cuando eso es imposible, ya sea por la falta de
+contactos, respuestas negativas o la demora y burocracia de esa
+gestión, se admitirá publicar información obtenida por otros medios de
+prensa.
+
+Siempre que se trabaje con información de otro medio de
+comunicación, debe manifestarse en la firma de la nota. Como la
+redacción de notas escritas o el montaje en audio o video siempre será
+elaborado por LA FONTANA, se reservará una segunda línea de la firma
+para tributar el origen de la información.
+
+A continuación un ejemplo de firma en nota escrita:
+
+      Por Joaquín Pino Sánchez
+      Con información de 24 Horas
+
+En los formatos digitales y siempre que sea posible, se debe enlazar la
+firma o algún concepto clave a la URL del medio que publicó la
+información -idealmente con la información enlazada en él-.
+
+También, si cierta información fue publicada en exclusiva por el medio
+citado en la firma, se debe citar de manera textual al interior del
+cuerpo de la nota. Esto no sólo es cumplir con la ética periodística de
+atribuir la información a sus fuentes, sino también para dejar en claro
+que dichos datos fueron obtenidos por terceros, y no por LA FONTANA.
+
+
+
+
+                                    28
+                       MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+      3. 9. TRATAMIENTO DE LA INFORMACIÓN
+Se entiende por tratamiento de la información a la presentación de
+datos, antecedentes, cifras, declaraciones e interpretaciones de los
+hechos.
+
+Ante todo, debe primar un principio pedagógico. El periodismo se
+ejerce sobre la base de la explicación, por lo que LA FONTANA siempre
+debe explicar y aclarar la naturaleza de la información publicada.
+
+Siempre se debe precisar el origen de la información, ya sea una
+institución pública, privada, un sondeo, declaraciones a nombre de un
+conglomerado social o a título personal, o cualquier tipo de fuente.
+Incluso con las fuentes anónimas -de hecho, sobre todo con este tipo
+de fuentes- la audiencia debe saber la procedencia de los datos y
+declaraciones -en este caso, explicitar que son fuentes anónimas-.
+
+Asimismo, se deben separar los hechos de las opiniones, apreciaciones
+o interpretaciones de la realidad. En el género informativo, jamás tiene
+lugar la opinión del reportero o periodista, por lo que cada espacio de
+opinión queda delimitado a declaraciones o acciones emitidas por
+terceros y eso debe quedar claro.
+
+                  3. 9. 1. ¿QUÉ COSAS NO PUBLICAR?
+
+No toda información es publicable. Hay datos, ya sea por la crudeza o
+su grado de privacidad, cuya publicación sólo aporta morbo o asombro,
+pero son totalmente prescindibles a la hora de elaborar el relato
+informativo.
+
+Ante estos casos debe primar la ética y los valores morales de
+periodistas y reporteros. La palabra final la tiene la dirección del medio.
+
+INFORMACIÓN SOBRE SINIESTROS
+
+Sobre todo cuando se trata de hechos de muerte, se debe evitar dar
+información personal de manera indiscriminada. Cada persona tiene
+derecho a un deceso digno, y las familias también poseen esa dignidad.
+
+Siempre debe primar el derecho de los familiares a conocer el deceso
+de los suyos por sobre el de la audiencia en general.
+
+
+                                    29
+                     MANUAL DE ESTILO | LA FONTANA
+
+
+
+A continuación un relato hipotético que pone a prueba el criterio
+editorial:
+
+     Un accidente de tránsito produjo la muerte de una familia
+     completa. El parte policial entregado a la prensa trae varios
+     antecedentes: causas de muerte, hora de muerte, edades de los
+     fallecidos, identidades de los fallecidos, lazos sanguíneos, datos
+     del automóvil, el origen de la familia, e incluso el detalle de las
+     cosas que venían al interior del vehículo implicado.
+
+     En este caso, conviene sólo informar la hora del siniestro, el
+     número de ocupantes y el tipo de vehículo y, como se trata de
+     una familia con distintos grupos etarios, las edades de quienes
+     fallecieron. No es correcto publicar mayor información, ya que no
+     aporta más que morbo.
+
+
+
+
+                                  30
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                 3. 10. REPORTEO GRÁFICO
+Se entiende por reporteo gráfico a la recopilación y elaboración de
+contenido que grafique los hechos informados en LA FONTANA. Puede
+ser a través de fotografías o imágenes en video.
+
+En un mundo altamente digitalizado, donde las plataformas en línea
+posicionan primero las imágenes y luego las palabras es imperativo
+contar con recursos gráficos para entregar información.
+
+ELABORACIÓN DE CONTENIDO
+
+La elaboración de este contenido debe tener por objetivo retratar la
+realidad, siendo un archivo histórico del momento en el que ocurren
+las cosas. En ninguna ocasión debe consignar una puesta en escena
+artificial. Su autor no debe influir en lo que se plasma en las imágenes.
+
+Los reporteros gráficos de LA FONTANA siempre deben contar con los
+equipos necesarios, debidamente probados y con la capacidad para
+plasmar correctamente las imágenes, ya sea en fotografías o videos.
+
+El reportero gráfico debe ser una persona sensible al entorno, alerta y
+de rápida reacción. En la captura de imágenes, cada segundo cuenta.
+
+Ante todo, se debe comprender que el reportero está allí para mostrar a
+la audiencia qué está pasando. Para eso podrá explorar diversos
+ángulos, enfoques y puntos de vista.
+
+Su cámara debe mostrar la realidad y debe tener una sola
+interpretación. No es correcto el material gráfico en el que los
+protagonistas de la imagen están realizando acciones interpretables,
+confusas o sin contexto.
+
+Cada fotografía y video debe explicarse en sí mismo. Todo lo que rodea
+a quienes protagonizan las imágenes debe servir como contexto.
+
+En cuanto a la técnica, se debe respetar la tradicional regla de los tres
+tercios, que divide a la imagen en nueve campos rectangulares o
+cuadrados y distribuye los puntos de atención en algunos vértices entre
+ellos.
+
+
+
+
+                                   31
+                            MANUAL DE ESTILO | LA FONTANA
+
+
+
+A continuación, algunos ejemplos de la regla de tres tercios al momento
+de encuadrar protagonistas u objetos en imágenes:
+
+
+
+
+      Foto: WordPress.com
+
+
+
+
+      Foto: fotolarios.es
+
+
+OBTENCIÓN DE CONTENIDO
+
+Por otro lado, es usual que a través de comunicados de prensa, bancos
+de imágenes o galerías digitales sea posible obtener material gráfico.
+
+Esto es un recurso de última instancia, y sólo es admisible cuando no
+exista posibilidad de que LA FONTANA realice un reporteo propio o las
+imágenes entregadas poseen una calidad técnica o periodística
+superior a las de elaboración propia.
+
+
+                                         32
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+En estos casos, se debe poner mucha atención a los emisores del
+contenido. Normalmente, si es una institución pública o privada,
+buscará posicionar su mensaje a través de las imágenes. Ninguna
+imagen es liberada a la prensa de manera arbitraria, sobre todo en el
+mundo político.
+
+Por este motivo, al obtener imágenes elaboradas por terceros, debe
+primar un análisis netamente periodístico.
+
+En muchas ocasiones, se envían comunicados de prensa con un grupo
+de fotografías, o solo una. A toda costa, hay una estrategia en ello, por
+lo que, en varios casos, es conveniente buscar alguna fotografía de
+archivo para graficar el hecho que será publicado u obtener por otras
+vías.
+
+AUTORÍA DEL MATERIAL
+
+Siempre que se publique un material gráfico, debe darse crédito a su
+autor. Normalmente esto se realiza con una frase en alguno de los
+márgenes de la fotografía o video.
+
+Siempre que se tenga acceso al nombre del autor, éste se debe escribir
+y, a continuación, la organización para la cual trabaja.
+
+Por ejemplo:
+
+      Fotografía: Joaquín Pino | LA FONTANA
+
+      Imágenes: Mariana García - Ministerio del Interior
+
+      Fotografía: Ariel Gabilondo. Agencia EFE
+
+En el caso que no se tenga el nombre de quien realizó el material, se
+escribirá solo la institución de su procedencia.
+
+Se aceptará suprimir la autoría de las imágenes cuando se trate de
+material de libre disposición, sin derechos de autor o con derechos
+liberados. Ejemplo de ello son los bancos de imágenes no-copyright.
+
+
+
+
+                                   33
+ MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+4. FORMATOS
+
+
+
+
+              34
+                       MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                          4. 1. ESCRITOS
+Los formatos escritos son los más tradicionales en el periodismo. En LA
+FONTANA son la base del periódico en papel o el diario digital en
+internet. A diferencia de los formatos radiofónicos o televisivos, aquí
+prima la palabra escrita, por lo que la redacción tiene la obligación de
+ser precisa.
+
+Además, en la escritura siempre predomina el principio de la economía
+del lenguaje: decir más, con menos palabras.
+
+En cualquier formato periodístico, cada vez que el medio se refiera a sí
+mismo, debe hacerse en mayúsculas y sin cursiva: “LA FONTANA”.
+
+                      4. 1. 1. CRÓNICA INFORMATIVA
+La crónica informativa es la nota periodística tradicional, que cuenta
+con epígrafe, titular, bajada, lead y cuerpo.
+
+Es lo que en otros medios se denomina “noticia” -no confundir: en LA
+FONTANA entendemos a la noticia como un hecho digno de ser sabido,
+no un texto-.
+
+La crónica informativa escrita es el fruto de un trabajo de reporteo y
+procesamiento de la información.
+
+              ESTRUCTURA DE LA CRÓNICA INFORMATIVA
+
+             Es una frase previa al titular. En ella se añade o
+ EPÍGRAFE    complementa lo titulado con uno o dos datos. Es una
+             frase muy corta.
+
+             Es una frase que resume el hecho de la manera más
+  TITULAR    sintética. Debe entenderse por sí solo: es una unidad
+             independiente del epígrafe y la bajada.
+
+             Entrega información que complementa al titular*. A
+             diferencia del epígrafe, la bajada es una oración -o dos-.
+  BAJADA     *Por normas de posicionamiento digital, en crónicas publicadas en
+             internet la bajada debe contener información más relevante que el
+             epígrafe.
+
+    LEAD     Es el primer párrafo de la nota, por lo que debe llamar la
+
+
+
+                                     35
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+             atención y entregar información vital para entender los
+             hechos.
+
+             A lo largo del cuerpo, los hechos se explican a cabalidad,
+             se relacionan con otros, se mencionan antecedentes y
+             declaraciones al respecto.
+  CUERPO     Por un principio pedagógico, el cuerpo de la crónica debe
+             explicar, incluso si es necesario destinar párrafos
+             completos a explicaciones, definiciones, comparaciones y
+             recursos similares.
+
+No se recomienda utilizar la pirámide invertida en lead y cuerpo, pero
+sí debe haber un proceso de jerarquización de la información al
+momento de ir entregando los datos en este párrafo.
+Se pueden insertar fotografías, infografías o -en el caso de
+publicaciones digitales- videos y enlaces.
+
+Es recomendable que cada crónica tenga al menos una fotografía que
+haga de portada en internet y de contexto en las ediciones impresas.
+
+Todo el material adjunto debe contener una reseña en el pie de imagen,
+que le relacione con el contenido de la crónica.
+
+                       4. 1. 2. BREVE INFORMATIVO
+
+El breve informativo es una nota periodística escrita de poca extensión.
+Normalmente, se aparta este formato para los hechos de menor
+relevancia o la cobertura de último minuto -en publicaciones digitales-.
+
+Consta de un epígrafe, titular, bajada, lead y párrafo de contexto. Por la
+acotada extensión de la nota, se recomienda utilizar el formato
+pirámide invertida.
+
+Se entiende por pirámide invertida a la técnica en el relato periodístico
+que entrega primero los datos más importantes y, a medida que el
+texto avanza, se informa desde lo más a lo menos relevante.
+
+Esta técnica no afecta solamente a la estructura del contenido, sino
+también a la disposición de las palabras al interior de las oraciones. Se
+deja de lado cualquier recurso literario para que prime el estilo directo
+y la precisión.
+
+
+
+                                   36
+                       MANUAL DE ESTILO | LA FONTANA
+
+
+
+Por ejemplo:
+
+                  “Esta tarde, un vehículo volcó sobre el canal Navotavo,
+                  que atraviesa la ciudad de San Carlos (Región de
+  SIN PIRÁMIDE
+    INVERTIDA
+                  Ñuble). El volcamiento produjo la muerte de los dos
+                  ocupantes del vehículo, cuya identidad aún es
+                  desconocida”.
+
+                  “Dos personas fallecieron esta tarde tras volcar sobre
+ CON PIRÁMIDE
+   INVERTIDA
+                  el canal Navotavo en San Carlos (Región de Ñuble).
+                  Aún se desconocen sus identidades”.
+
+La estructura de los breves informativos es similar a la de las crónicas.
+Epígrafe, titular y bajada cumplen la misma función. El resto se
+distribuye de esta forma:
+
+                 Es el primer párrafo del breve, por lo que debe
+     LEAD        contener toda la información relevante, de manera
+                 jerarquizada y directa.
+
+              Entrega antecedentes, datos, definiciones o
+PÁRRAFO(S) DE explicaciones que ayuden a entender lo informado en
+  CONTEXTO    el lead. Eventualmente, pueden llegar a ser dos
+              párrafos de contexto, pero no más que eso.
+
+
+
+                            4. 1. 3. EDITORIAL
+
+La editorial es un texto de opinión de autoría de LA FONTANA. Plantea
+un enfoque a un hecho de actualidad y representa la opinión del medio
+frente a él.
+
+A veces, su estructura se confunde con la de las columnas de opinión. Si
+bien son similares en algunos puntos, la editorial entrega una visión
+más informativa de la actualidad.
+
+Su estructura es simple: titular y cuerpo. No obstante, se puede ajustar
+a los formatos de epígrafe, titular, bajada y cuerpo, entregando un
+resumen o adelanto de la exposición que se realiza a través de los
+párrafos.
+
+
+
+
+                                    37
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+Siempre se deben entregar datos precisos, actuales, comprobables. La
+naturaleza opinante de la editorial sólo queda reservada a puntos de
+vista, enfoques, comentarios o críticas.
+
+Si bien es un texto que se escribe a nombre de todo el medio de
+comunicación, se deben evitar expresiones de pertenencia que
+marquen el discurso (“nosotros”, “nos parece”, “opinamos”). No es un
+manifiesto, es un texto que expone hechos y opina al respecto.
+
+El texto editorial debe ser escrito o visado por quien dirige LA FONTANA.
+Si su contenido es delicado jurídicamente hablando, se debe socializar
+con el representante legal del medio de comunicación.
+
+Aunque no hay estructuras determinadas para la elaboración de
+editoriales, a continuación se detallan tres caminos a seguir.
+
+   1. Información > contexto > opinión:
+      Se inicia el relato con hechos de la actualidad resumidos que más
+      tarde son contextualizados. En la parte final del texto se emite el
+      punto de vista, comentario o crítica.
+
+   2. Información > opinión:
+      Cuando los hechos son ampliamente conocidos, no viene al caso
+      contextualizarlos. Sólo se precisan en la primera parte del texto y,
+      a continuación, se explica el punto de vista del medio.
+
+   3. Opinión > información:
+      También es posible iniciar directamente con el planteamiento, y
+      más tarde con los datos para sustentar la opinión. Esto, gracias a
+      un inicio directo al punto de vista.
+
+                       4. 1. 4. TEXTOS DE OPINIÓN
+El resto de los textos de opinión que pueden ser publicados en LA
+FONTANA corresponde a columnas de opinión, ensayos o cartas al
+director.
+
+Para la elaboración de ellos existe libertad, siempre y cuando se
+respeten normas ortográficas básicas y exista cohesión y coherencia en
+el relato.
+
+
+
+                                   38
+                       MANUAL DE ESTILO | LA FONTANA
+
+
+
+Siempre se debe identificar claramente al emisor del texto. En el caso
+de las cartas al director, quedará a criterio editorial si publicarlas o no
+cuando la autoría sea difusa (por ejemplo, no se adjunte RUT o nombre
+completo o datos de contacto).
+
+En el caso de las columnas de opinión y los ensayos, representan un
+espacio abierto pero exclusivo para entendidos en las materias que
+tratan. Es sumamente recomendable restringir las publicaciones a
+profesionales o técnicos en el ámbito sobre el cual se refieren en el
+texto.
+
+Como LA FONTANA es un medio comprometido con la imparcialidad, las
+columnas de opinión políticas implican un análisis y una conversación
+previa con los columnistas, para garantizar contrapuntos o la existencia
+de autores con diversas tendencias políticas entre sí.
+
+
+
+
+                                    39
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                     4. 2. RADIOFÓNICOS
+Se entiende por formatos radiofónicos a todo material sonoro, ya sea
+para radio o plataformas de audio en internet.
+
+Los formatos radiofónicos de LA FONTANA son elaborados en la mejor
+calidad posible, sin descuidar la exportabilidad de los formatos.
+
+Para elaborar cualquier formato radiofónico se necesita un libreto
+radial o, al menos, un boceto de información y estructura, incluso para
+emitir contenido en directo. Esto siempre es necesario para poder
+entregar información con precisión.
+
+Se recomienda grabar material en bruto en archivos WAV, pero el
+producto final en MP3.
+
+Para complementar la información, cada formato radiofónico puede
+incorporar cuñas: es decir, grabaciones de declaraciones o sonido
+ambiente previamente recortadas. Las cuñas pueden o no presentarse,
+pero debe entenderse explícita o implícitamente su contenido.
+
+USO DE LA VOZ
+
+Los reporteros, periodistas y locutores que elaboran formatos
+radiofónicos para LA FONTANA, se caracterizan por una excelente
+dicción, buen ritmo y elocuencia.
+
+Utilizan una voz clara, agradable (no estridente) y cercana a la
+audiencia. Importan una voz natural y uniforme en cuanto a su
+volumen.
+
+Se nutren de recursos expresivos como las pausas, reiteraciones,
+cambios en la intensidad y velocidad de la narración y el destaque de
+conceptos clave. Esto, sin abusar ni redundar, teniendo el criterio
+necesario para decidir cuándo y cómo utilizar estos recursos.
+
+A toda costa, deben evitar muletillas y lugares comunes -a menos que
+se utilice con función retórica-. Los reporteros, periodistas y locutores
+de LA FONTANA buscan el perfeccionamiento constante.
+
+
+
+
+                                   40
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+FIRMA
+
+Cada formato radiofónico debe contener, al final de cada espacio, la
+firma de LA FONTANA. Esto es, el nombre del periodista o reportero y la
+mención explícita del nombre del medio.
+
+Por ejemplo:
+
+         A. “... de esta manera, estamos llegando al final de este
+            espacio. Soy Joaquín Pino informando para LA FONTANA”.
+         B. “... estará por verse lo que resuelva la Contraloría. Fue un
+            informe de Joaquín Pino para LA FONTANA”.
+
+                           4. 2. 1. PODCAST
+Se entiende por podcast a un montaje sonoro que entregue
+información en un formato claro y atractivo a la audiencia. Es un
+archivo de audio cuidado y editado adecuadamente para entregar un
+producto pulcro.
+
+Si bien la definición de podcast se refiere a una unidad de archivo,
+también puede aplicarse para una serie de archivos sonoros agrupados
+en capítulos o episodios bajo el mismo titular y temática, pero con
+nueva información en cada entrega.
+
+Los podcasts de LA FONTANA poseen una o varias cortinas
+características, con un tema musical en específico. Poseen una
+presentación corporativa realizada por una voz diferente a la que
+predomina en cada capítulo, y entrega descripciones preliminares del
+espacio al inicio de éste.
+
+Hay libertad para el montaje de podcasts, pero deben seguir una
+estructura clara e inamovible la mayor parte del tiempo.
+
+Los podcasts se distribuyen en diversas plataformas a través de la
+Really Simple Syndication (RSS) que permite entregar el mismo
+producto sonoro en varias plataformas distintas.
+
+                       4. 2. 2. CÁPSULA RADIAL
+Son pequeños archivos sonoros, de no más de 5 a 10 minutos, que
+tienen por objetivo entregar dosis de información. Regularmente, se
+
+
+
+                                   41
+                       MANUAL DE ESTILO | LA FONTANA
+
+
+
+dedican a cubrir temas fuera de la actualidad -por ejemplo, efemérides,
+educación cívica o crónicas patrimoniales-.
+
+Esto hace que su formato sea un poco más distendido que el
+informativo y posea una identidad cercana y positiva.
+
+Las cápsulas radiales deben cumplir con la estructura:
+
+Presentación > narración > final”.
+
+                       4. 2. 3. DESPACHO RADIAL
+El despacho es un contacto en directo o grabado que realiza la emisora
+radial con un reportero o periodista en terreno, o fuera del estudio.
+
+Tiene por objetivo entregar información in situ, en detalle o en
+desarrollo. La información debe ser procesada y jerarquizada
+previamente, incluso cuando se trata de cobertura emergente.
+
+Normalmente, en programas grabados o en vivo, son los conductores
+quienes presentan los despachos, con los que incluso pueden sostener
+cierto diálogo introductorio, aclaratorio o al final de la nota. Si es así,
+en los libretos radiales debe especificarse “con diálogo”, “con saludo” o
+“con despedida”.
+
+Siempre irá la firma al final del despacho, independientemente de si
+contuvo diálogos, saludo o despedida.
+
+                          4. 2. 4. NOTA RADIAL
+La nota radial es el símil de la crónica informativa escrita. Es una
+narración periodística que, a lo largo de unos minutos (de 1 a 5) entrega
+información precisa y diezmada a lo largo del tiempo. Tiene por
+objetivo explicar los hechos a la audiencia.
+
+La nota radial debe ser escrita y revisada, y las cuñas o efectos de
+sonido a utilizar deben trabajarse previamente. Los reporteros y
+periodistas al momento de salir al aire leen la nota, pero se dotan de la
+naturalidad discursiva de la palabra hablada.
+
+
+
+
+                                     42
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+Si se trata de un programa en directo o grabado con conductores, los
+reporteros, periodistas o locutores que leen la nota pueden tomar
+diálogo con éstos.
+
+En cuanto a estructura, la nota radial se divide en TEXTO y CUÑA. La
+primera sección comprende 1 o 2 párrafos de narración de la nota,
+mientras que la segunda corresponde exclusivamente a la presentación
+de una cuña.
+
+De acuerdo a esto, las notas básicas se estructuran de la siguiente
+manera: TEXTO > TEXTO > CUÑA > TEXTO.
+
+Las notas más extensas: TEXTO > TEXTO > CUÑA > TEXTO > CUÑA > TEXTO.
+
+Aunque, si quien elabora la nota lo propone, o por instrucción editorial,
+se podrá elaborar con estructuras diferentes.
+
+Por ejemplo:
+
+      Cuando hay una cuña de gran valor informativo, es posible tener
+      esta estructura: CUÑA > TEXTO > TEXTO > CUÑA > TEXTO.
+
+Las cuñas no deben exceder los 35 segundos, ni ser inferiores a 15
+segundos. Su contenido debe analizarse categóricamente, para entregar
+información específica y no redundante con la narración. Si se
+necesitan dos o más cuñas, el ideal es conseguir cuñas de personas
+diferentes.
+
+                     4. 2. 5. BOLETÍN Y NOTICIERO
+El boletín es un programa radial o podcast que resume las principales
+noticias que la audiencia debe conocer, de acuerdo a la periodicidad de
+su emisión. Es un compendio de despachos, contiene uno o dos
+conductores y tiene una narrativa ágil.
+
+El noticiero es un programa radial que recopila la mayor parte de
+noticias e informaciones de cierta jornada y la da a conocer en
+profundidad. Es un compendio de notas radiales, pero también puede
+contener despachos radiales para la cobertura in situ o del momento.
+Tiene una narrativa ágil pero en profundidad.
+
+
+
+
+                                   43
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+Ambos espacios radiales contienen al menos un(a) conductor(a) que
+presenta los despachos y notas de los reporteros, periodistas o
+locutores. Poseen cortinas musicales y también una presentación,
+introducción y final previamente grabados. Además, podrán existir
+ráfagas (frases o sonidos) que separen las secciones noticiosas.
+
+                          4. 2. 6. MAGAZINE
+Es un formato radial distendido, que quita la completa seriedad y la
+estructuración discursiva que tienen los formatos informativos. No por
+eso es menos preciso y de calidad.
+
+Por ende, no hay mayor estructura al respecto, ya que existe libertad
+para presentar la información, intercalar con tandas musicales,
+despachos o incluso notas.
+
+El eje principal de este formato es la conversación y la cercanía con la
+audiencia. Debe evitarse que dicha interacción sea sólo entre los
+participantes del programa: siempre debe hacerse parte a la audiencia.
+
+
+
+
+                                   44
+                         MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                         4. 3. AUDIOVISUAL
+Los formatos audiovisuales son utilizados para mostrar, en video, los
+hechos y declaraciones con que LA FONTANA busca informar a su
+audiencia.
+
+En términos generales, siempre contendrá el isologotipo, logotipo o
+isotipo de LA FONTANA (Ver capítulo 6).
+
+Siempre que se necesite presentar cuñas, locaciones, créditos a
+grabaciones o cualquier otra información necesaria para entender la
+procedencia de los videos, se insertará texto en pantalla a través del
+generador de caracteres. Éste debe contar con un diseño claro,
+inconfundible con el fondo y que respete el estilo gráfico y periodístico
+del video.
+
+En el generador de caracteres, siempre se dispone primero el nombre
+de la persona y después su vocativo, cargo, profesión o descripción.
+
+Por ejemplo:
+
+
+
+
+      El generador de caracteres es acorde a la identidad gráfica de LA FONTANA (los
+      colores), se despliega en la parte inferior izquierda de la pantalla y, en el
+      margen superior derecho de esta se incluye el isotipo de LA FONTANA.
+
+      Pese a los detalles, el encuadre cumple con mostrar al protagonista, en un
+      plano medio y se ven los micrófonos de punto de prensa, contextualizando la
+      escena.
+
+
+
+                                        45
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+Si se trata de formatos audiovisuales informativos, se debe prescindir
+de música de fondo. Esto, para mantener la seriedad, imparcialidad y
+objetividad de la cobertura.
+
+Debe cuidarse los ángulos, planos, y la distribución de los
+protagonistas en las tomas de video. La audiencia debe entender y
+visualizar escenas no interpretables, sino claras.
+
+La claridad de sonido e imágenes es un principio que atraviesa
+cualquier formato audiovisual. Si el material obtenido no cuenta con
+estas características, debe evaluarse su uso.
+
+Si son videos informativos, debe considerar una firma periodística al
+final del video, ya sea a través de texto en el generador de caracteres o
+menciones en la narración del reportero o periodista que elabora la
+nota.
+
+En videos corporativos o destinados a internet o redes sociales, al
+finalizar el video se debe desplegar el isologotipo de LA FONTANA,
+como firma visual.
+
+Son videos informativos los que cumplen una función periodística,
+mientras que los corporativos cumplen una función comercial o de
+marca, en relación a LA FONTANA.
+
+                    4. 3. 1. CÁPSULA AUDIOVISUAL
+La cápsula audiovisual es un video breve que, por lo general, no excede
+los 5 minutos de extensión. Tiene por objetivo informar algún hecho
+informativo o corporativo.
+
+Hay libertad para elaborar su estructura, pero debe regirse por la base
+de INICIO > DESARROLLO > FINAL.
+
+Las cápsulas audiovisuales son el formato ideal para publicar cuñas en
+video o imágenes de locaciones. Su descripción y contextualización
+puede ir en forma de narración (sonora) al interior del video, o un texto
+(escrito) que acompañe la publicación de las cápsulas en internet o
+redes sociales.
+
+
+
+
+                                   46
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+                      4. 3. 2. NOTA AUDIOVISUAL
+La nota audiovisual o televisiva es el símil de la crónica informativa
+escrita. Busca informar a través de las imágenes. Contiene una
+narración (sonora) que entrega gran parte de la información, pero ésta
+debe ir acompañada con imágenes que muestren o contextualicen lo
+que se narra.
+
+Dura entre 2 a 5 minutos, y su contenido es elaborado con cuñas y
+tomas en video. Es el fruto del reporteo en terreno, por lo que allí
+deben capturarse la mayor cantidad de imágenes posible, planificando
+lo que será la nota audiovisual.
+
+Las imágenes no deben repetirse. Esto da cuenta de la falta de reporteo
+o trabajo en terreno.
+
+Al igual que las crónicas informativas escritas, las notas audiovisuales
+pueden elaborarse con material enviado a través de minutas o
+comunicados de prensa. No obstante, se deben aplicar los mismos
+criterios que cuando se obtiene a través del reporteo.
+
+La estructura debe considerar locución en off, inserción de cuñas y, si
+es necesario, infografías animadas. Debe poner el énfasis en la
+elaboración del relato.
+
+Debe informar pero también entretener, entendiendo esto último como
+la capacidad de mantener la atención de la audiencia y ganar un
+espacio en su memoria, al menos, a corto plazo.
+
+             4. 3. 3. SERIES Y PROGRAMAS TELEVISIVOS
+Se le denomina serie o programa televisivo a cualquier formato
+audiovisual que comprenda cierta cantidad de piezas que poseen la
+misma identidad y estilo al momento de entregar información.
+
+Es un compendio de capítulos, episodios o entregas que tienen en
+común los principios editoriales del contenido.
+
+
+
+
+                                   47
+ MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+5. REDACCIÓN
+PERIODÍSTICA
+
+
+
+
+              48
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                        5. 1. LEGIBILIDAD
+La redacción periodística es un proceso que traspasa transversalmente
+cualquier formato o plataforma comunicacional de LA FONTANA. Es
+necesaria para elaborar la base y el fondo de lo que se entrega a la
+audiencia.
+
+Para los formatos escritos, la redacción significa la totalidad de su
+elaboración. En formatos radiales y audiovisuales, el proceso de
+escritura es clave para procesar la información, jerarquizar, explicar y
+dar un orden. Precisamente, ese es el rol del periodismo: ordenar y
+explicar la información.
+
+Según la Real Academia Española, la legibilidad es la cualidad de algo
+que se puede leer. Es el principio básico de cualquier texto de LA
+FONTANA.
+
+Para lograrla, se necesita de un lenguaje claro, directo, sin frases
+rebuscadas ni expresiones que no aportan a la comprensión.
+
+                   5. 1. 1. ECONOMÍA DEL LENGUAJE
+
+En el género informativo debe primar la economía del lenguaje: decir
+más, con menos palabras. Deben evitarse los lugares comunes, vicios
+del lenguaje, redundancias, clichés y frases hechas.
+
+Por ejemplo:
+
+      “El día de hoy, miércoles 15 de julio, el alcalde de la comuna de
+      Chillán llegó hasta las inmediaciones del Registro Civil, frente a la
+      plaza Andrés Bello. Allí, el alcalde dialogó con algunos de los
+      vecinos que viven en el barrio.” MAL
+
+      “Hoy, miércoles 15 de julio, el alcalde de Chillán llegó hasta el
+      Registro Civil, frente a plaza Andrés Bello. Allí, dialogó con
+      algunos vecinos del barrio.” BIEN
+
+
+
+
+                                    49
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+                   5. 1. 2. SIGNOS DE PUNTUACIÓN
+
+Cualquier signo de puntuación y conector debe ser utilizado de manera
+óptima. En ocasiones, conviene cambiar el orden sintáctico de las
+oraciones y frases para dar claridad.
+
+Por ejemplo:
+
+      “Hasta el Regimiento N°7 “Chacabuco”, situado en pleno sector
+      Collao, llegó el alcalde de esa comuna, Concepción, para
+      conmemorar un aniversario más de la ciudad.” MAL
+
+      “Con motivo del aniversario de Concepción, el alcalde de esa
+      comuna se trasladó al Regimiento N°7, ubicado en el sector
+      Collao.” BIEN
+
+      “El alcalde de Concepción se trasladó al Regimiento N°7, para
+      conmemorar el aniversario de la ciudad. El recinto, que lleva por
+      nombre “Chacabuco”, se ubica en el sector Collao.” MEJOR
+
+                   5. 1. 3. CORREFERENCIA LÉXICA
+
+La correferencia léxica es el recurso utilizado para referirse al mismo
+sujeto con palabras distintas. Esto, para no repetir exactamente las
+mismas palabras.
+
+Es un recurso que debe ser usado por los reporteros y redactores de LA
+FONTANA. Las palabras y conceptos deben ser de conocimiento general,
+de tal manera que no signifique falta de comprensión en la lectura.
+
+Por ejemplo:
+
+      “El presidente Sebastián Piñera llegó hasta Chillán Viejo a
+      conmemorar, como cada año, el natalicio de Bernardo O’Higgins.
+      El padre de la patria vivió su infancia en lo que hoy es esta
+      comuna de la Región de Ñuble.
+
+      Allí, el mandatario confundió el lugar donde descansan los restos
+      del prócer. “Descansa en paz a pocos metros de este lugar, junto a
+      su hermana Rosita O’Higgins y su madre Isabel Riquelme”, dijo el
+      Jefe de Estado.”
+
+
+
+                                   50
+                     MANUAL DE ESTILO | LA FONTANA
+
+
+
+                            5. 1. 4. TIEMPO
+
+Las noticias son hechos que suceden en un marco de tiempo
+delimitado. Es menester siempre responder a la pregunta “¿Cuándo?” a
+través de las primeras líneas de la narración.
+
+Las horas, minutos y segundos siempre se informan según el sistema
+horario de 24 horas y de manera numérica.
+
+Por ejemplo:
+
+     “A eso de las 17:35 hrs., el presidente Gabriel Boric bajó de su
+     automóvil.” BIEN
+
+     “A las cinco y media de la tarde, el presidente Gabriel Boric bajó de
+     su automóvil.” MAL
+
+Los días y meses del año se escriben siempre en minúscula, salvo que
+se trate de una celebración, efeméride o el nombre de alguna empresa,
+lugar o similar (Por ejemplo: Día de la Mujer. Aquí va en mayúsculas
+iniciales porque se trata de una efeméride).
+
+                           5. 1. 5. LUGARES
+
+Al momento de informar lugares, se debe tomar en cuenta la división
+territorial de nuestro país. Actualmente, Chile se divide en ciudades,
+comunas, provincias, regiones, zonas y macrozonas, en ese orden y
+jerarquía territorial (las ciudades forman comunas; las comunas,
+provincias, etc).
+
+Siempre se debe informar la comuna en la que suceden los hechos.
+Consecutivamente, la región a la que pertenece, normalmente entre
+paréntesis para evitar el uso excesivo de comas.
+
+Sólo se podrá evitar la mención a la región cuando la ciudad sea
+notoriamente reconocida a nivel nacional o tenga el mismo nombre que
+el territorio regional (por ejemplo, Antofagasta, que se ubica en la
+Región de Antofagasta).
+
+Por ejemplo:
+
+
+
+
+                                   51
+                         MANUAL DE ESTILO | LA FONTANA
+
+
+
+      “Una docena de personas se congregaron en la plaza de Coelemu
+      (Región de Ñuble).” BIEN
+
+En el caso de ubicaciones en el extranjero, se debe precisar la ciudad o
+territorio en el cual ocurrieron los hechos y el nombre del país (que
+podrá o no ir entre paréntesis).
+
+Si el país es poco conocido para la audiencia, se debe contextualizar su
+ubicación en el mapa, continente, etc.
+
+                                CASOS PUNTUALES
+
+  En el caso de la región ubicada al sur del Maule, con capital en Concepción, su
+               nombre se escribe “Biobío”, no “Bio-Bio” ni “Bío Bío”.
+
+ La región situada al sur del Biobío se denomina “La Araucanía”, no “Araucanía”. Su
+                   nombre completo es “Región de La Araucanía”.
+
+ Si la locación en el extranjero tiene su nombre oficial en otra lengua que no es el
+           castellano, pero posee traducción, se privilegiará su traducción.
+
+
+                              5. 1. 6. GENTILICIOS
+
+Se entiende por gentilicio el vocativo de las personas que provienen o
+habitan cierto territorio. Siempre van en minúsculas, y su aplicación
+-sobre todo en el caso de comunas rurales o no conocidas
+ampliamente- debe ser verificada.
+
+Los gentilicios siempre son una sola palabra, aunque el nombre del
+lugar tenga dos o más.
+
+Por ejemplo:
+
+      LUGAR                                    GENTILICIO
+
+Viña del Mar        Viñamarino, viñamarina, viñamarinos.
+
+San Carlos          Sancarlino, sancarlina, sancarlinos.
+
+Chillán Viejo       Chillanvejano, chillanvejana, chillanvejanos.
+
+
+
+
+                                         52
+                         MANUAL DE ESTILO | LA FONTANA
+
+
+
+                           5. 1. 7. INSTITUCIONES
+
+Las instituciones, organismos, organizaciones y entidades deben ser
+mencionadas de manera formal y por su nombre oficial.
+
+Hay instituciones cuyo nombre oficial es poco usado, y frecuentemente
+se nominan por una sola palabra. En este caso, su nominación
+frecuente debe escribirse con mayúsculas iniciales.
+
+A continuación se detallan algunos ejemplos:
+
+                       NOMBRE OFICIAL NOMINACIÓN FRECUENTE
+
+            Congreso Nacional de Chile Congreso
+
+      Cámara de Diputadas y Diputados Cámara de Diputados, Cámara
+
+     Contraloría General de la República Contraloría
+
+                        Fiscalía de Chile Fiscalía
+
+                    Carabineros de Chile Carabineros
+
+               Convención Constitucional Convención
+
+
+
+En estos y otros casos similares, se respetará la nominación frecuente
+de igual forma que el nombre oficial.
+
+Los nombres oficiales deben informarse en la primera mención que se
+haga a las instituciones. El resto de menciones pueden llevar la
+nominación frecuente o recursos de correferencia, que irán siempre en
+minúsculas.
+
+Por ejemplo:
+
+      PRIMER PÁRRAFO:
+      “... informó la Contraloría General de la República”.
+
+      TERCER PÁRRAFO:
+      “Según precisó la Contraloría, …”
+
+Lo mismo aplica para acrónimos y siglas. Sobre ellos se profundiza en
+el apartado 5. 2. 1. 3.
+
+
+
+
+                                        53
+                     MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                      5. 2. ORTOGRAFÍA
+La ortografía de los periodistas y redactores de LA FONTANA debe ser
+impecable. Por ello, se recomienda la mayor cantidad de revisiones
+posibles y quienes escriben deben estar en un perfeccionamiento
+constante.
+
+A continuación se detallan materias específicas en las cuales LA
+FONTANA debe tener siempre el mismo criterio.
+
+                5. 2. 1. MAYÚSCULAS Y MINÚSCULAS
+
+“¿Con mayúscula o minúscula?” Esa es una pregunta que atormenta a
+las redacciones de todo el mundo. En Chile, por ejemplo, varía
+totalmente el criterio pasando de un medio a otro, por lo que es
+necesario que LA FONTANA establezca reglas al respecto.
+
+Los siguientes apartados tienen por objetivo uniformar la escritura de
+periodistas y reporteros, y marcar una precedente para dudas al
+respecto.
+
+5. 2. 1. 1. NOMBRES PERSONALES
+
+Los nombres personales (entiéndase, nombres y apellidos) siempre van
+en mayúscula inicial.
+
+Si el nombre o apellido posee conectores, estos se escribirán en
+minúsculas sólo cuando se haga de manera completa.
+
+Por ejemplo:
+
+     “El fundador de San Carlos es Joaquín del Pino”.
+
+     “Del Pino es el fundador de la ciudad”.
+
+Los nombres y apellidos son únicos, por lo que se debe respetar la
+singularidad ortográfica que pudieran poseer.
+
+Los apellidos compuestos deberán escribirse tal como están inscritos
+ante el Servicio de Registro Civil e Identificación. Con los mismos
+caracteres y signos.
+
+
+
+
+                                  54
+                       MANUAL DE ESTILO | LA FONTANA
+
+
+
+5. 2. 1. 2. LUGARES
+
+En el caso de los lugares, el nombre del territorio siempre irá en
+mayúscula inicial, salvo conectores (por ejemplo: Biobío, Chillán Viejo,
+Viña del Mar).
+
+No obstante, la regla cambia sobre lo que precede al nombre.
+
+Los sustantivos “comuna” y “comunas” siempre irán en minúscula, al
+igual que “ciudad” y “ciudades”. En cambio, “provincia” y “región” sólo
+irá con mayúscula inicial cuando se dé a conocer el nombre completo
+de ese territorio.
+
+Por ejemplo:
+
+      “En el evento participaron todas las organizaciones vecinales de
+      la Región”. MAL
+
+      “Hasta allí llegaron los vecinos de Loncoche, comuna ubicada al
+      sur de la región.” BIEN
+
+      “En el salón principal se desarrolló la cita que convocó a 10
+      alcaldes de la Región de La Araucanía.” BIEN
+
+      “Sin embargo, dos alcaldes, ambos de la provincia de Cautín, se
+      retiraron antes del inicio de la actividad”. MAL
+
+Las palabras que indiquen lugares geográficos o urbanos específicos
+deben ir en minúsculas, incluso si van acompañados de sustantivos
+propios. Esto ocurre con: avenida, calle, puente, portal, plaza, fuente,
+parque, pasaje, y otros de similar naturaleza.
+
+5. 2. 1. 3. INSTITUCIONES
+
+En el caso de las instituciones, organizaciones, agrupaciones y similares
+entidades, se debe poner en mayúsculas iniciales su nombre oficial y,
+más adelante, con su nominación recurrente.
+
+En el caso de las instituciones comunes, la referencia a ellas sin
+mencionar el nombre completo se realiza en minúsculas. Aquí, las
+instituciones son un sustantivo más de la frase. Por ejemplo, en los
+casos a continuación:
+
+
+
+                                    55
+                        MANUAL DE ESTILO | LA FONTANA
+
+
+
+                              NOMBRE OFICIAL REFERENCIA
+
+                          Municipalidad de (...) municipalidad, municipio
+
+                              Ministerio de (...) ministerio, cartera, secretaría
+
+                          Subsecretaría de (...) subsecretaría
+
+       Delegación Presidencial Regional de (...) delegación
+
+                                 Seremi de (...) seremi
+
+  Oficina / Dirección / Departamento Municipal oficina / dirección /
+                                       de (...) departamento
+
+                       Servicio Nacional de (...) servicio
+
+                         Juzgado de (...) de (...) juzgado
+
+
+
+Por otro lado, existen instituciones oficiales que son únicas y
+preponderantes en la política y la administración del país. Estas van
+con mayúscula inicial siempre que se refieran a instituciones activas:
+Estado, Gobierno, Constitución y de similar naturaleza.
+
+A veces, las instituciones poseen acrónimos o siglas.
+
+Un acrónimo es el conjunto de iniciales de cada palabra. Una sigla es
+una nueva palabra que se forma a partir de sílabas o letras
+seleccionadas arbitrariamente para crear un fonema agradable.
+
+Los acrónimos siempre van en mayúscula. Las siglas también, a
+excepción de las conocidas popularmente.
+
+Por ejemplo:
+
+      ACRÓNIMO: OMS, Organización Mundial de la Salud
+
+      SIGLA: Sernac, Servicio Nacional del Consumidor
+
+Para referirse a instituciones a través de su acrónimo o sigla -siempre
+se debe mencionar primero su nombre oficial y, entre paréntesis su
+abreviación, para luego referirse sólo a éste último- se debe respetar el
+género gramatical de la nominación (Ej: La Corfo, el SII, la OMS, el
+Sernac).
+
+
+
+
+                                        56
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+5. 2. 1. 4. CARGOS
+
+Los cargos políticos, comerciales y académicos sólo irán en mayúscula
+cuando se trate del nombre completo del cargo y éste signifique
+autoridad.
+
+Excepciones a esta regla son los cargos de concejales, alcaldes,
+presidentes (sin contar la Presidencia de la República), voceros,
+representantes y similares. Esto, ya que son los cargos más comunes en
+la sociedad y sus instituciones.
+
+Por ejemplo:
+
+      “El Presidente de la República, Gabriel Boric, asumió su mandato
+      el 11 de marzo”.
+
+      “El presidente Boric llegó a La Moneda ayer por la noche”.
+
+      “Sergio Henríquez, concejal de Playa Ancha, llegó hasta el
+      hemiciclo del Congreso”.
+
+      “El secretario de la Oficina Municipal de Salud recepcionó la
+      documentación, pero los entrevistados dijeron no haberla leído”.
+      (Si bien una secretaría es un cargo, no representa autoridad, ya
+      que es sólo administrativo).
+
+      “El Gobernador Regional de Ñuble, Óscar Crisóstomo, obtuvo una
+      baja votación en su primera elección”.
+
+      “El alcalde Becker aún no responde la petición de los vecinos”.
+
+                             5. 2. 2. TILDES
+
+LA FONTANA se rige, en casi todos los casos, por las directrices de la
+Real Academia Española (RAE) y la Fundación para el Español Urgente
+(FUNDÉU).
+
+Las excepciones son casos aislados, como tildar la primera vocal de
+“sólo” para diferenciarlo de su homónimo y tildar monosílabos como
+“guión”.
+
+
+
+
+                                   57
+                       MANUAL DE ESTILO | LA FONTANA
+
+
+
+En resumen, mantener tildes en casos donde la RAE los ha eliminado.
+Esto, con la única finalidad de entregar claridad a una audiencia que no
+está familiarizada con los últimos cambios lingüísticos y cuya
+exposición a ellos podría llevarles a pensar falta de rigor ortográfico.
+
+Se debe tener presente que, en la formulación de preguntas o el
+planteamiento de interrogantes, siempre deben tildarse las palabras:
+qué, quién, quiénes, dónde, cómo y cuándo.
+
+                    5. 2. 3. NÚMEROS Y CANTIDADES
+
+Existen dos maneras de expresar cifras numéricas: con caracteres
+numéricos (1, 2, 3, 4…) o con palabras (uno, dos, tres, cuatro…).
+
+Toda cifra numérica cuya transcripción signifique no más de una
+palabra sin conectores será expresada con palabras.
+
+Por ejemplo:
+
+      Un, uno, tres, diez, catorce, diecinueve, veinticinco. BIEN
+
+      Treinta y tres, cuatrocientos noventa, mil doscientos. MAL
+
+Las cantidades que superen los mil o el millón de unidades, deben
+escribirse con palabras y números, para facilitar la lectura. Las palabras
+quedan reservadas para mil, miles, millón y millones. Los números, para
+el resto de cifras.
+
+Por ejemplo:
+
+      2 mil 256, mil 400, un millón 250 mil, 5 mil 700.
+
+Las aproximaciones o redondeos grandes se escribirán siempre en
+palabras (Por ejemplo: millón y medio, dos mil, casi dos millones, más
+de tres mil).
+
+                             5. 2. 3. SIGNOS
+
+Son signos aquellos caracteres que, no siendo letras ni números,
+aparecen en los textos y contribuyen en su correcta lectura.
+
+
+
+
+                                     58
+                       MANUAL DE ESTILO | LA FONTANA
+
+
+
+5. 2. 4. 1. COMILLAS
+
+Las comillas son fundamentales en el periodismo escrito. Otorgan la
+capacidad de reproducir declaraciones dichas por otras personas y
+repetir expresiones literalmente.
+
+Las comillas siempre deben ser utilizadas para citar declaraciones
+exactas, ojalá literales, y atribuirlas a sus emisores.
+
+Las comillas siempre deben ser utilizadas al inicio y al final de citas
+directas.
+
+Las citas directas deben ir antecedidas por “que” o por “:” y sucedidas
+por un punto seguido o aparte, o una coma y la posterior atribución de
+la declaración.
+
+Por ejemplo:
+
+      El aludido dijo: “nunca vine antes a este lugar, es mi primera vez
+      aquí”.
+
+      El alcalde argumentó que “la situación financiera no depende de
+      esta administración”.
+
+      “Esa no es responsabilidad de esta casa de estudios”, aseguró el
+      rector.
+
+5. 2. 4. 2. INTERROGACIÓN Y EXCLAMACIÓN
+
+Los signos de interrogación y exclamación van al inicio y final de las
+frases expresivas.
+
+En el periodismo, es fundamental la formulación de preguntas, por lo
+que los signos de interrogación son usados con frecuencia.
+
+No obstante, debe evitarse el uso de signos de exclamación. Su
+utilización sólo se remite a transcripciones de frases y oraciones
+escritas que lo contengan.
+
+
+
+
+                                    59
+                       MANUAL DE ESTILO | LA FONTANA
+
+
+
+5. 2. 4. 3. GUIONES Y RAYAS
+
+Los guiones son líneas verticales del espacio de un caracter. Se usan
+para establecer una relación, conexión o unión entre dos palabras o
+funciones metalingüísticas (separación silábica).
+
+Las rayas son líneas verticales un poco más extensas que los guiones.
+Sus funciones son:
+
+   1. Encerrar aclaraciones, incisos o comentarios dentro de las
+      oraciones.
+   2. Reproducir un diálogo de forma escrita
+   3. Atribuir citas textuales
+   4. Enumerar
+
+La primera función de las rayas es la más común en los textos
+informativos. No debe usarse en exceso. Siempre debe cuestionarse si
+usar estos signos o comas, quedando sólo en casos donde las comas ya
+hayan sido utilizadas y una inserción más de ellas signifique problemas
+de legibilidad.
+
+Por ejemplo:
+
+      “El tesorero de la institución -Gustavo Gutiérrez- hizo alusión…”
+      MAL.
+
+      “Mientras tanto, en la institución castrense, que no pasa por un
+      buen momento -han renunciado dos de sus altos mandos-,
+      aseguran que…”. BIEN.
+
+                      5. 2. 5. PREFIJOS Y SUFIJOS
+
+Los prefijos y sufijos son sílabas que, anexadas antes o después de una
+palabra, cambian su significado. La palabra original y su prefijo o sufijo
+conforman una nueva palabra, que es una unidad: no dos.
+
+Por ejemplo:
+
+PREFIJO: Anormal (a: falta de).
+
+SUFIJO: Buenísimo (ísimo: en exceso).
+
+
+
+
+                                    60
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+Se debe tener especial cuidado al momento de tratar prefijos
+ampliamente utilizados, sobre todo en vocativos.
+
+Un caso así es lo que sucede con el prefijo “ex”. Debe anexarse
+directamente a la palabra (el cargo, en este caso) original. La única
+excepción a ello es que el cargo se deba escribir con mayúscula inicial.
+
+Por ejemplo:
+
+      El ex-presidente. MAL
+
+      El ex presidente. MAL
+
+      El expresidente. BIEN
+
+      El ex Presidente de la República. BIEN
+
+           5. 2. 6. MODISMOS, VICIOS Y EXTRANJERISMOS
+
+MODISMOS
+
+Los modismos son expresiones características de una lengua, en
+nuestro caso, el castellano. Es, valga la redundancia, una expresión de
+las características sociales de un conjunto de personas que conviven en
+el mismo entorno por sobre el lenguaje.
+
+Los modismos poseen un significado que no se puede deducir de la
+etimología, semántica o gramática. A los modismos propios de Chile se
+les denomina chilenismos.
+
+En LA FONTANA los modismos sólo se escriben en casos de
+transcripciones de cuñas o entrevistas. Deben redactarse con letra
+cursiva.
+
+VICIOS
+
+Los vicios del lenguaje son deformaciones incorrectas que, usualmente,
+se realizan por medio de la palabra hablada. No es desconocido que el
+dialecto chileno es caldo de cultivo para este fenómeno.
+
+En LA FONTANA quedan prohibidos los vicios del lenguaje, salvo en
+situaciones extraordinarias y periodísticamente necesarias (por
+ejemplo, un extracto de una entrevista que deba ser reproducido
+
+
+
+                                   61
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+palabra por palabra por su interés mediático). En ese caso, se escribirá
+en cursiva, dentro de la cita textual y al finalizar ésta, debe escribirse
+“(sic)”, del latín “así”.
+
+Lo mismo procede con cualquier tipo de vulgarismos (garabatos,
+groserías).
+
+EXTRANJERISMOS
+
+Los extranjerismos son palabras que no pertenecen a nuestro idioma,
+en este caso, ajenas al castellano.
+
+Su uso debe ser estrictamente medido, para priorizar ante todo la
+lengua castellana, que es la que habla casi la totalidad de la población
+nacional.
+
+Los extranjerismos se escriben en letra cursiva.
+
+Las marcas o los conceptos altamente populares no se consideran
+extranjerismos.
+
+Siempre se debe evaluar si un extranjerismo necesita traducción. Si es
+así, ésta irá en paréntesis y hará alusión a la lengua del extranjerismo.
+
+Por ejemplo:
+
+      “Se necesitará su password (contraseña, en inglés)”, indicó el
+      ingeniero informático.
+
+
+
+
+                                   62
+                       MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+       5. 3. VERBOS, ADVERBIOS Y ADJETIVOS
+VERBOS
+
+Los verbos son palabras que expresan acciones. En el periodismo, son
+el recurso principal para informar los hechos.
+
+Los periodistas y redactores de           LA   FONTANA   deben   utilizar
+adecuadamente cada verbo existente.
+
+Si bien hay conceptos que son sinónimos, ninguna palabra significa lo
+mismo que otra, por lo que la elección de ellas debe hacerse de manera
+ilustrada.
+
+Deben cuidarse especialmente los verbos utilizados junto a cuñas.
+Éstos se seleccionan tras una correcta interpretación de la acción que
+la persona realizó al emitir sus declaraciones.
+
+Para explicar esto, se detalla el siguiente ejemplo:
+
+      “Una vez que los documentos sean corroborados, iré -con los
+      concejales que me quieran acompañar- a la Contraloría, a una
+      nueva entrevista con el contralor regional para entregar toda la
+      documentación recogida para tal efecto”, aseguró el concejal.
+      BIEN
+
+      En este párrafo se transcribieron literalmente las declaraciones
+      de una persona, en este caso, un concejal. El contenido de su
+      discurso es de carácter político y, como es sabido, cada actor en
+      política busca quedar bien posicionado, realiza promesas y frases
+      para dar a conocer que realiza su trabajo de la manera correcta.
+
+      Por tales motivos, y porque la cuña lo refleja, el verbo utilizado
+      para atribuir las declaraciones fue ASEGURAR.
+
+      Es un verbo correcto para el contexto, ya que LA FONTANA no
+      puede dar fe de la palabra del concejal, ni tampoco hacer un
+      juicio de valores, ni acreditar que es una mentira. Aquí sólo hay
+      una persona (el concejal) prometiendo acciones: asegurando que
+      las realizará.
+
+
+
+
+                                    63
+                        MANUAL DE ESTILO | LA FONTANA
+
+
+
+El mismo proceso crítico que ocurre al analizar el caso anterior debe
+suceder en cada ocasión. Los verbos siempre serán una manera para
+entregar información a la audiencia.
+
+ADVERBIOS
+
+Los adverbios son palabras que modifican al verbo, agregándole
+información a él y a toda la oración.
+
+                      TIPOS DE ADVERBIOS MÁS COMUNES
+
+               Aquí, allá, cerca, lejos, arriba, abajo, afuera, dentro, atrás,
+    LUGAR
+               adelante
+
+  CANTIDAD     Mucho, más, poco, bastante, tanto, menos, nada, muy.
+
+               Mañana, después, entonces, temprano, recién, luego, antes, ayer,
+    TIEMPO
+               aún, ahora, hoy, tarde.
+
+    DUDA       Acaso, tal vez, quizás, quizá.
+
+ AFIRMACIÓN    Sí, además, también, ciertamente.
+
+  NEGACIÓN     No, nunca, jamás, tampoco.
+
+    MODO       Bien, mal, así, rápidamente, cómodamente, justamente.
+
+
+
+Al igual que con los verbos, los adverbios deben ser usados de manera
+crítica y cuidada, ya que deben describir correctamente los hechos
+informados.
+
+ADJETIVOS
+
+Dice Mario Vargas Llosa (Premio Nobel de Literatura, 2010) que los
+adjetivos existen para no usarse. Y no está tan alejado de la realidad, al
+menos en el periodismo informativo.
+
+Los periodistas y redactores de LA FONTANA deben cuidar y diezmar el
+uso de adjetivos en la redacción de contenido que sólo busca informar.
+Esto, ya que adjetivar -en la gran mayoría de los casos- implica una
+visión subjetiva o un juicio comparativo con los hechos.
+
+Debe cuidarse y cuestionarse todo uso de adjetivos en textos
+informativos.
+
+
+
+                                        64
+                         MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                                  5. 4. SEO
+Siempre que se trate de redacción periodística para la plataforma
+www.lafontana.cl, se debe aprovechar al máximo las herramientas en
+línea para posicionarse en la web.
+
+El diario digital de LA FONTANA es un sitio web que funciona con el
+software Wordpress, que permite un trabajo automatizado y
+sistemático. Es deber de los periodistas y redactores de LA FONTANA
+manejar dicho software a cabalidad.
+
+La optimización de los motores de búsqueda -que permite que LA
+FONTANA llegue a quienes buscan cualquier contenido en internet- es
+fundamental y debe ser incesante. Es lo que en inglés se denomina
+Search Engine Optimization (SEO).
+
+Los motores de búsqueda -Google, el principal referente- son el símil
+de un tiraje en medios impresos. Y en la web, esto depende de la
+palabra escrita, por lo que la redacción debe adecuarse a nuevos
+estándares sin pasar a llevar criterios periodísticos.
+
+Para trabajar con SEO se deben seguir normas que ayudan a que la web
+decodifique y posicione el contenido.
+
+La plataforma digital Yoast SEO especifica los siguientes conceptos
+claves básicos para entender el SEO:
+
+                           CONCEPTOS BÁSICOS DE SEO
+
+ FRASE OBJETIVO O   La o las palabras centrales de la nota. Debe aparecer en el
+   FRASE CLAVE      titular, el slug y la metadescripción.
+
+                    Es el link en el que se publica la nota (Por ejemplo:
+      SLUG
+                    lafontana.cl/24/07/2022/manual-de-estilo).
+
+                    Es un párrafo que acompaña al titular en los resultados de
+ METADESCRIPCIÓN
+                    búsqueda.
+
+                    Fotografía principal de la nota periodística. Debe ser de
+IMAGEN DESTACADA
+                    1200x633px y tener descripción, leyenda y texto alternativo.
+
+ ENLACES INTERNOS   Hipervínculos que lleven dentro y fuera de www.lafontana.cl
+    Y SALIENTES     Debe haber uno de cada uno.
+
+
+
+
+                                        65
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+Todos estos conceptos, que son recursos digitales, deben utilizarse en
+cada nota periodística publicada.
+
+Algunos de estos recursos consisten en el relleno de casilleros que
+Wordpress despliega al momento de publicar artículos. Otros, son
+requisitos a los cuales el relato periodístico y su estructura (epígrafe,
+titular, bajada, lead y cuerpo) deben adecuarse.
+
+Por ejemplo, lo ideal es que la frase clave esté inserta en el titular, la
+metadescripción y el cuerpo de la nota. El titular y el cuerpo se
+encuentran al interior de la nota, mientras que la metadescripción es
+un casillero de Wordpress.
+
+Algo similar ocurre con los enlaces salientes: URLs que se enlazan a
+alguna de las palabras que contiene el cuerpo. Para los enlaces
+entrantes se realiza lo mismo, o se crean párrafos-frase diciendo
+“También puedes leer:”, o “Contenido relacionado:” para, acto seguido,
+copiar y enlazar el titular de otro artículo,
+
+Para perfeccionar el SEO, de manera sistemática los editores de LA
+FONTANA deben asesorar e instruir a los redactores y periodistas en
+estas materias.
+
+Para finalizar, un diagrama básico sobre cómo una nota debe ir
+adecuándose al SEO (Ver página siguiente).
+
+
+
+
+                                   66
+MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+             67
+    MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+6. DISEÑO GRÁFICO
+
+
+
+
+                 68
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+               6. 1. IDENTIDAD E IMAGOTIPO
+LA FONTANA posee una identidad única, clara y bien constituida. Esto se
+ve reflejado en las características visuales a través de las cuales
+proyecta su marca.
+
+Su nombre, que hace alusión al concepto fuente -tanto en el
+periodismo como en el espacio público arquitectónico- le identifica por
+entre los otros medios.
+
+Se expresa a través de su imagotipo y marca gráfica principal:
+
+
+
+
+Descripción:
+
+      “La Fontana”, escrito con letras verdes y con serifa, con sólo la
+      letra “F” en mayúscula; el resto todas en minúsculas.
+
+      Al costado derecho, un círculo verde marcado con la silueta de
+      una fuente de dos cuencos, la que está levemente inclinada a la
+      izquierda.
+
+      En el caso que esta imagen se proyecte sobre un campo negro u
+      oscuro, las zonas de color verde cambiarán a blanco.
+
+En fotografías de perfil en redes sociales, cuentas, y plataformas
+digitales que necesiten una imagen abreviada y en proporción 1:1, se
+podrá utilizar el siguiente isotipo:
+
+
+
+
+                                   69
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                       6. 2. TIPOGRAFÍAS
+En formatos escritos y gráficos, LA FONTANA siempre dispondrá su texto
+en tipografías claras y fáciles de interpretar a la vista.
+
+Para titulares y texto destacado en formatos periodísticos, se
+recomienda siempre utilizar tipografías con serifa, por formalidad.
+
+Mientras, en titulares y texto destacado en otros contextos, se
+recomienda utilizar tipografía sin serifa, por cercanía.
+
+El texto de párrafo y similares estructuras llevará tipografía con serifa,
+para simplificar la lectura al ojo humano.
+
+Se recomiendan las siguientes tipografías, que pueden ser descargadas
+de manera gratuita y legal a través del repositorio Google Fonts:
+
+Merriweather
+
+Merriweather Merriweather
+Merriweather Merriweather
+
+
+Fira Sans
+
+Fira Sans Fira Sans Fira Sans Fira Sans
+Fira Sans Fira Sans Fira Sans Fira Sans
+
+
+
+
+                                   70
+                      MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+                 6. 3. REGLAS GENERALES
+Ante cualquier escenario, la identidad gráfica de LA FONTANA debe ser
+cuidada y planificada. Siempre debe respetar valores gráficos
+tradicionales como la simetría o contrapesos visuales, márgenes,
+uniformidad de colores y combinación de tonalidades.
+
+COLORES
+
+El color verde oficial es el #009C4B en formato HTML (RGB). Si bien es
+un estándar digital, en impresiones debe elegirse una tonalidad igual o
+lo más parecida posible.
+
+Si no es factible la aplicación en verde, se debe aplicar en negro sobre
+fondos blancos y claros; y en blanco sobre fondos negros u oscuros.
+
+Jamás el verde podrá ser remplazado por algún otro color que no sea
+blanco o negro según corresponda.
+
+EN FORMATOS IMPRESOS
+
+En formatos impresos, se debe cuidar tanto el diseño digital como el
+producto final. Si es necesario, se deben tomar medidas para cuidar la
+buena impresión de las gráficas.
+
+EN FORMATOS AUDIOVISUALES
+
+En video, la animación del isotipo o imagotipo -si la hay- debe ser
+sobria, seria y sin exageraciones.
+
+JUSTIFICACIÓN DE TEXTO
+
+En el caso de los formatos periodísticos impresos, sólo se justificará el
+cuerpo del texto -y, eventualmente, las bajadas-. Siempre con
+separación silábica.
+
+En formatos digitales, sólo se justificará si esto permite la separación
+silábica. De lo contrario y debido al amplio espectro de pantallas que
+visualizan el contenido, será un obstáculo y es mejor alinear a la
+izquierda sin justificación.
+
+
+
+
+                                   71
+MANUAL DE ESTILO | LA FONTANA
+
+
+
+
+             72
+
